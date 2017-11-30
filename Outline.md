@@ -1,7 +1,7 @@
 # Game Outline
 
 ## Controls
-There are three types of levels within the game and each has their own controls, though all of them just use the mouse. The level select screen is also navigated only with the mouse. Additionally, you can return to the level select screen from anywhere by pressing the <Home> key.
+There are three types of levels within the game and each has their own controls, though all of them just use the mouse. The level select screen is also navigated only with the mouse. Additionally, you can return to the level select screen from anywhere by pressing the Home key.
 
 ### Learning Levels
 Text is advanced by simply left-clicking with the mouse. There is nothing else to it as the goal is learning the necessary information for the other types of levels.
